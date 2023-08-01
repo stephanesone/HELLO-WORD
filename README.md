@@ -1,4 +1,4 @@
 # HELLO-WORD
 MY FIRST REPOSITORY
-MY NAME IS SONE STEPHANE A STUDENT OF HIBMAT UNIVERSITY INSTITUTE OF BUEA
-I WISH TO LEARN MORE FROM GITHUB
+My name is sone stephane am a student of HIBMAT unversity institute buea 
+i wish to learn more from GITHUB thank you 
